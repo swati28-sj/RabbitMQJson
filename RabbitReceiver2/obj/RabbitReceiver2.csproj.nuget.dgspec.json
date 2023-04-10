@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\New folder\\RabbitMQJson\\RabbitMQTut\\RabbitReceiver2\\RabbitReceiver2.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\New folder\\RabbitMQJson\\RabbitReceiver2\\RabbitReceiver2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\New folder\\RabbitMQJson\\RabbitMQTut\\RabbitReceiver2\\RabbitReceiver2.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\New folder\\RabbitMQJson\\RabbitReceiver2\\RabbitReceiver2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\New folder\\RabbitMQJson\\RabbitMQTut\\RabbitReceiver2\\RabbitReceiver2.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\New folder\\RabbitMQJson\\RabbitReceiver2\\RabbitReceiver2.csproj",
         "projectName": "RabbitReceiver2",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\New folder\\RabbitMQJson\\RabbitMQTut\\RabbitReceiver2\\RabbitReceiver2.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\New folder\\RabbitMQJson\\RabbitReceiver2\\RabbitReceiver2.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\New folder\\RabbitMQJson\\RabbitMQTut\\RabbitReceiver2\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\New folder\\RabbitMQJson\\RabbitReceiver2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

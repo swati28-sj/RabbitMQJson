@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "opOQRaEuPA0vE/XiKgdb16cHrUnneWRj8P0ri0oYTmV4a3D4ckR/vhFKkgNa/theToJGlXGpDW3M/v5mKgnIug==",
+  "dgSpecHash": "I/HInAM05G+Ob7oyA5bqPIuS3Qbf15eOwBBhePfEsxgcTquAmdv2H+/egD69/+5u3ZrPibGi/s1YrV8GNEoVsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\New folder\\RabbitMQJson\\RabbitMQTut\\RabbitSender\\RabbitSender.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\New folder\\RabbitMQJson\\RabbitSender\\RabbitSender.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

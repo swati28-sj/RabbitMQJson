@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\New folder\RabbitMQJson\ConsumerTicket\bin\Debug\net7.0\ConsumerTicket.exe
+C:\Users\Administrator\Desktop\New folder\RabbitMQJson\ConsumerTicket\bin\Debug\net7.0\ConsumerTicket.deps.json
+C:\Users\Administrator\Desktop\New folder\RabbitMQJson\ConsumerTicket\bin\Debug\net7.0\ConsumerTicket.runtimeconfig.json
+C:\Users\Administrator\Desktop\New folder\RabbitMQJson\ConsumerTicket\bin\Debug\net7.0\ConsumerTicket.dll
+C:\Users\Administrator\Desktop\New folder\RabbitMQJson\ConsumerTicket\bin\Debug\net7.0\ConsumerTicket.pdb
+C:\Users\Administrator\Desktop\New folder\RabbitMQJson\ConsumerTicket\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Administrator\Desktop\New folder\RabbitMQJson\ConsumerTicket\obj\Debug\net7.0\ConsumerTicket.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\RabbitMQJson\ConsumerTicket\obj\Debug\net7.0\ConsumerTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\New folder\RabbitMQJson\ConsumerTicket\obj\Debug\net7.0\ConsumerTicket.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\New folder\RabbitMQJson\ConsumerTicket\obj\Debug\net7.0\ConsumerTicket.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\New folder\RabbitMQJson\ConsumerTicket\obj\Debug\net7.0\ConsumerTicket.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder\RabbitMQJson\ConsumerTicket\obj\Debug\net7.0\ConsumerTicket.csproj.CopyComplete
+C:\Users\Administrator\Desktop\New folder\RabbitMQJson\ConsumerTicket\obj\Debug\net7.0\ConsumerTicket.dll
+C:\Users\Administrator\Desktop\New folder\RabbitMQJson\ConsumerTicket\obj\Debug\net7.0\refint\ConsumerTicket.dll
+C:\Users\Administrator\Desktop\New folder\RabbitMQJson\ConsumerTicket\obj\Debug\net7.0\ConsumerTicket.pdb
+C:\Users\Administrator\Desktop\New folder\RabbitMQJson\ConsumerTicket\obj\Debug\net7.0\ConsumerTicket.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\New folder\RabbitMQJson\ConsumerTicket\obj\Debug\net7.0\ref\ConsumerTicket.dll

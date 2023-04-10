@@ -127,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\New folder\\RabbitMQJson\\RabbitMQTut\\RabbitSender\\RabbitSender.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\New folder\\RabbitMQJson\\RabbitSender\\RabbitSender.csproj",
       "projectName": "RabbitSender",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\New folder\\RabbitMQJson\\RabbitMQTut\\RabbitSender\\RabbitSender.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\New folder\\RabbitMQJson\\RabbitSender\\RabbitSender.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\New folder\\RabbitMQJson\\RabbitMQTut\\RabbitSender\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\New folder\\RabbitMQJson\\RabbitSender\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
